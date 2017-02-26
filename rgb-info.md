@@ -1,4 +1,5 @@
-== Speakers' Additional Quotes
+== 
+Speakers' Additional Quotes
 
 * ndipatri
 _Of all the operating systems in my life, Android is always the closest; because I wear my OS, it's used in ways that are near and dear to me personally._
